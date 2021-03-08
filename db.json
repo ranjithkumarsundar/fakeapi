@@ -43,6 +43,28 @@
 "shipto":"OMAN AIR S.A.O.C(Central Store)",
 "receipt":"185310",
 "lineno":"1.102"
+},
+    {
+"title":"19003762 / AB / 00110",
+"id":"16.199.121.079",
+"date":"18-Sep-2019",
+"branchplantid":"11010110",
+"branchplant":"Central Store",
+"shiptoid":"200172",
+"shipto":"OMAN AIR S.A.O.C(Central Store)",
+"receipt":"185310",
+"lineno":"3.102"
+},
+    {
+"title":"23003762 / BC / 00110",
+"id":"16.199.121.079",
+"date":"18-Sep-2019",
+"branchplantid":"11010110",
+"branchplant":"Central Store",
+"shiptoid":"200172",
+"shipto":"OMAN AIR S.A.O.C(Central Store)",
+"receipt":"185310",
+"lineno":"3.102"
 }
 
 ]
